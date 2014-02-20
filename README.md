@@ -1,4 +1,4 @@
-WebsiteDesgin
+WebsiteDesign
 =======
 
 做一个新闻聚合与展示网站，功能包括：
